@@ -1,2 +1,0 @@
-# Python
-first python repo
