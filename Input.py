@@ -31,8 +31,9 @@ print('The average of A & B is:- ', average)
 '''
 
 #  5 
-
+'''
 # Check A>=B Or Not
 a = int(input('enter the first number:- '))
 b = int(input('enter the second number:- '))
 print(a>=b)
+'''
